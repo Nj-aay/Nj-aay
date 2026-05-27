@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Njujima Anya-Ebiekwa 
 
-<!--
-**Nj-aay/Nj-aay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Analyst focused on uncovering trends, optimizing performance, and delivering data-driven insights
 
-Here are some ideas to get you started:
+## Skills
+- Excel
+- Power BI
+- SQL
+- Data Cleaning
+- Dashboard Design
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Featured Projects
+
+### Nike Sales Performance Analysis
+Analyzed sales performance across retailers, products, and regions to identify key revenue drivers and trends.
+
+### Nike Sales Decline Analysis
+Investigated causes of declining sales performance and provided business recommendations.
+
+## Currently Learning
+- Advanced SQL
+
+## Connect With Me
+- LinkedIn: www.linkedin.com/in/njujima-anyaebiekwa-2234ba383
+- Email: glowwithnjay@gmail.com
+
