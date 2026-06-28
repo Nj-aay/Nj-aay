@@ -1,6 +1,7 @@
 # Hi, I'm Njujima Anya-ebiekwa 
 
-Data Analyst focused on uncovering trends, optimizing performance, and delivering data-driven insights
+
+Junior Data Analyst passionate about solving business problems with data. Excel | SQL | Power BI | Python.
 
 ## Skills
 - Excel
@@ -20,8 +21,9 @@ Investigated causes of declining sales performance and provided business recomme
 
 ## Currently Learning
 - Advanced SQL
+- python
 
 ## Connect With Me
 - LinkedIn: www.linkedin.com/in/njujima-anyaebiekwa-2234ba383
-- Email: glowwithnjay@gmail.com
+- Email: njujimaanyaebiekwa@gmail.com
 
