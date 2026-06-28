@@ -1,4 +1,4 @@
-# Hi, I'm Njujima Anya-Ebiekwa 
+# Hi, I'm Njujima Anya-ebiekwa 
 
 Data Analyst focused on uncovering trends, optimizing performance, and delivering data-driven insights
 
