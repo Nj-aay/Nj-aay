@@ -1,6 +1,6 @@
 # Hi, I'm Njujima Anya-ebiekwa 
 
-I help business owners build profitable businesses make better decisions without having to guess their numbers
+I help business owners build profitable businesses and  make better decisions without having to guess their numbers
 Sales and business Data Analyst passionate about solving business problems with data.  Excel | SQL | Power BI | Python.
 
 ## Skills
